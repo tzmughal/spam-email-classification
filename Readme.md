@@ -76,7 +76,7 @@ Calculate the accuracy of each algorithm and compare the results.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/spam-email-classification.git
+    git clone https://github.com/tzmughal/spam-email-classification.git
     ```
 
 2. Navigate to the project directory:
